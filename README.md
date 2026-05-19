@@ -35,6 +35,11 @@ Sou formado Técnico em Informática pelo **Senac Piracicaba** e atualmente esto
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
+#### **Metodologias & Design (UI/UX)**
+![UI/UX](https://img.shields.io/badge/UI/UX-🎨-blueviolet?style=for-the-badge)
+![Mobile First](https://img.shields.io/badge/Mobile_First-📱-darkgreen?style=for-the-badge)
+![Responsividade](https://img.shields.io/badge/Responsividade-💻-blue?style=for-the-badge)
+
 #### **DevOps, Infra & Ferramentas**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -42,6 +47,7 @@ Sou formado Técnico em Informática pelo **Senac Piracicaba** e atualmente esto
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
 
 ---
 
