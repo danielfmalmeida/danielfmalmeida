@@ -50,12 +50,12 @@ Sou formado Técnico em Informática pelo **Senac Piracicaba** e atualmente esto
 
 
 
-### 📊 Estatísticas do GitHub
+`### 📊 Estatísticas do GitHub
 
 <p align="left">
   <img height="180" src="https://github-readme-stats-git-master-danielmoreira3110-6769s-projects.vercel.app/api?username=danielfmalmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Daniel" />
   <img height="180" src="https://github-readme-stats-git-master-danielmoreira3110-6769s-projects.vercel.app/api/top-langs/?username=danielfmalmeida&layout=compact&langs_count=7&theme=tokyonight" alt="Top Linguagens de Daniel" />
-</p>
+</p>`
 
 
 ### 🌐 Conecte-se comigo
