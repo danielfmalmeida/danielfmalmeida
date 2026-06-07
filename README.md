@@ -1,4 +1,4 @@
-# Olá, eu sou o Daniel Felipe Moreira Almeida 👋
+# Olá, eu sou o Daniel Felipe 👋
 
 ### 🎓 Futuro Engenheiro de Software & Desenvolvedor Fullstack
 
@@ -52,12 +52,10 @@ Sou formado Técnico em Informática pelo **Senac Piracicaba** e atualmente esto
 ---
 
 ### 📊 Estatísticas do GitHub
-
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=danielfmalmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Daniel" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfmalmeida&layout=compact&langs_count=7&theme=tokyonight" alt="Top Linguagens de Daniel" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=danielfmalmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2" alt="Estatísticas do GitHub de Daniel" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfmalmeida&layout=compact&langs_count=7&theme=tokyonight&v=2" alt="Top Linguagens de Daniel" />
 </p>
-
 ---
 
 ### 🌐 Conecte-se comigo
