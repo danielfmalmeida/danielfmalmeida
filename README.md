@@ -54,13 +54,13 @@ Sou formado Técnico em Informática pelo **Senac Piracicaba** e atualmente esto
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielfmalmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfmalmeida&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=danielfmalmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Daniel" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfmalmeida&layout=compact&langs_count=7&theme=tokyonight" alt="Top Linguagens de Daniel" />
 </p>
 
 ---
 
 ### 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/COLOQUE_SEU_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmoreiraalmeida/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielmoreira3110@gmail.com)
