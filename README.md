@@ -2,7 +2,7 @@
 
 ### 🎓 Futuro Engenheiro de Software & Desenvolvedor Fullstack
 
-Sou formado Técnico em Informática pelo **Senac Piracicaba** e atualmente estou cursando Engenharia de Software na **Uninter** (1º Quadrimestre). Meu objetivo é dominar o ecossistema Fullstack, unindo a base sólida de desenvolvimento desktop/web que adquiri no técnico com as tecnologias mais modernas de mercado e conceitos avançados de engenharia.
+Sou formado Técnico em Informática pelo **Senac Piracicaba** e atualmente estou cursando Engenharia de Software na **Uninter** (1º Semestre). Meu objetivo é dominar o ecossistema Fullstack, unindo a base sólida de desenvolvimento desktop/web que adquiri no técnico com as tecnologias mais modernas de mercado e conceitos avançados de engenharia.
 
 ---
 
